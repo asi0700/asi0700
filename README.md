@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asi0700&label=Profile%20views&color=0e75b6&style=flat" alt="asi0700" /> </p>
 
-- 🔭 Сейчас я работаю над [app-Sklad](https://github.com/asi0700/Practic)
+- 🔭 Сейчас я работаю над [Messager](https://github.com/asi0700/Messager)
 
 - 🌱 Сейчас я изучаю **Kotlin**
 
