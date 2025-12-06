@@ -1,5 +1,5 @@
 <h1 align="center">Привет 👋, я Асрор</h1>
-<h3 align="center">Увлечённый full stack разработчик из России/Таджикистана</h3>
+<h3 align="center">Увлечённый full stack разработчик</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asi0700&label=Profile%20views&color=0e75b6&style=flat" alt="asi0700" /> </p>
 
