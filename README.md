@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://asi0700.github.io/resume/">Портфолио</a> •
-  <a href="mailto:asrorsanginov00@gmail.com">Email</a> •
+  <a href="mailto:https://t.me/as1shka">Telegram</a> •
   <a href="https://instagram.com/as1shka__">Instagram</a>
 </p>
 
@@ -27,7 +27,7 @@ const developer = {
   currentProject: "Messager",
   currentlyLearning: "Kotlin",
   goal: "Создать кроссплатформенное приложение для колледжа",
-  contact: "asrorsanginov00@gmail.com",
+  contact: "[as1shka](https://t.me/as1shka)",
   trait: "Быстро учусь"
 };
 ```
@@ -37,7 +37,7 @@ const developer = {
 - 🎯 Цель: Создать своё собственное приложение для всех ОС (например, приложение для колледжа)
 - ⚡ Особенность: Быстро учусь и осваиваю новые технологии
 - 👨‍💻 Все проекты: [https://asi0700.github.io/resume/](https://asi0700.github.io/resume/)
-- 📫 Контакты: [asrorsanginov00@gmail.com](mailto:asrorsanginov00@gmail.com)
+- 📫 Контакты: [https://t.me/as1shka](mailto:as1shka)
 
 ---
 
