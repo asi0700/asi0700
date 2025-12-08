@@ -3,7 +3,7 @@
   Привет, я Асрор!
 </h1>
 
-<h3 align="center">Full-stack разработчик из Узбекистана</h3>
+<h3 align="center">Full-stack разработчик </h3>
 
 <p align="center">
   <a href="https://asi0700.github.io/resume/">Портфолио</a> •
