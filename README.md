@@ -1,5 +1,5 @@
 <h1 align="center">👋 Привет, я Асрор</h1>
-<h3 align="center">Увлечённый full stack разработчик</h3>
+<h3 align="center">full stack разработчик</h3>
 
 <p align="center">
   <a href="https://asi0700.github.io/resume/">Портфолио</a> •
